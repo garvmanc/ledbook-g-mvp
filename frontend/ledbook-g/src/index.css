@@ -66,3 +66,36 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+body {
+  background-color: #f8f9fb;
+  font-family: 'Inter', 'Roboto', sans-serif;
+  color: #333;
+}
+
+.card {
+  border: none;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+}
+
+.btn-primary {
+  background-color: #c0dbff;
+  border-color: #2f80ed;
+}
+
+.btn-primary:hover {
+  background-color: #1864d2;
+  border-color: #1864d2;
+}
+
+.form-control {
+  border-radius: 6px;
+  border: 1px solid #ced4da;
+  padding: 0.75rem;
+}
+
+.form-control:focus {
+  border-color: #2f80ed;
+  box-shadow: 0 0 0 0.2rem rgba(47,128,237,0.25);
+}
