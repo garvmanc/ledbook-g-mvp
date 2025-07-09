@@ -11,4 +11,5 @@ This is a busy-like account ledger software.
 
 ## Future 
 
-- Currently, this is just an MVP. 
+- Currently, this is just an MVP.
+- Soon would be adding multi-user packs.
