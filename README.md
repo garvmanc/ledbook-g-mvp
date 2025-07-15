@@ -13,3 +13,7 @@ This is a busy-like account ledger software.
 
 - Currently, this is just an MVP.
 - Soon would be adding multi-user packs.
+
+## Currently
+
+- Updating Frontend, suggestions are welcome.
