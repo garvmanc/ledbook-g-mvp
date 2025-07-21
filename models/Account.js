@@ -6,4 +6,9 @@ const AccountSchema = new mongoose.Schema({
         required: true,
         unique: true
     },
+    type: {
+        type: String,
+        enum: ['Asset', 'Liability', 'Equity', 'Revenue', 'Expense'],
+        required: true
+    },
 })
