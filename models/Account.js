@@ -11,4 +11,5 @@ const AccountSchema = new mongoose.Schema({
         enum: ['Asset', 'Liability', 'Equity', 'Revenue', 'Expense'],
         required: true
     },
+    description: String
 })
