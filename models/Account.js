@@ -12,4 +12,4 @@ const AccountSchema = new mongoose.Schema({
         required: true
     },
     description: String
-})
+});
