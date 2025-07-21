@@ -16,4 +16,4 @@ This is a busy-like account ledger software.
 
 ## Currently
 
-- Updating Frontend, suggestions are welcome.
+- Updating Frontend.
