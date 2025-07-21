@@ -18,6 +18,7 @@ const JournalSchema = new mongoose.Schema({
                 ref: 'account',
                 required: true
             },
+            debit: { type: Number, default: 0 },
         }
     ]
 })
